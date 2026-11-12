@@ -1,5 +1,5 @@
-<!-- Счётчик страйков (commit streak) -->
-![GitHub Streak](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&width=435&lines=Full-stack+Developer;Rust+%26+React+Enjoyer)
+
+![Header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Welcome!&fontSize=70&align=center)
 
 <p align="center">
   <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white" />
 </p>
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Welcome!&fontSize=70&align=center)
+![GitHub Streak](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&width=435&lines=Full-stack+Developer;Rust+%26+React+Enjoyer)
 
 
 <p align="center">
