@@ -2,10 +2,10 @@
 ![GitHub Streak](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&width=435&lines=Full-stack+Developer;Rust+%26+React+Enjoyer)
 
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Welcome!&fontSize=70)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Welcome!&fontSize=70&align=center)
 
 <Header>
-  <p><a src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Welcome!&fontSize=70"></a></p>
+  <p><a src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Welcome!&fontSize=70&align=center"></a></p>
 </Header>
 
 
