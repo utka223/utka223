@@ -1,9 +1,3 @@
-<!-- Общая статистика профиля -->
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=utka223&show_icons=true&theme=radial)
-
-<!-- Топ используемых языков -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=utka223&layout=compact&theme=radial)
-
 <!-- Счётчик страйков (commit streak) -->
 ![GitHub Streak](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&width=435&lines=Full-stack+Developer;Rust+%26+React+Enjoyer)
 
